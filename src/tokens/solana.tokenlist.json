@@ -1,0 +1,13 @@
+{
+      "chainId": 101,
+      "address": "CC27wj9sfs9iFSxygnNK2W9PwSVQ7KokRHevudoeMH1u",
+      "symbol": "CBDC",
+      "name": "Central Bank Digital Currencies",
+      "decimals": 8,
+      "logoURI": "https://i.ibb.co/sFMVBT4/CBDC.jpg",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        ""
+      }
